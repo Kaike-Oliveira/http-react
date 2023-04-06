@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Moletom",
+      "price": "89.90",
+      "id": 4
+    },
+    {
+      "name": "Calça",
+      "price": "25.90",
+      "id": 5
+    },
+    {
+      "name": "Óculos",
+      "price": "10.99",
+      "id": 6
+    },
+    {
+      "name": "Sapato",
+      "price": "79.56",
+      "id": 10
+    },
+    {
+      "name": "Meia",
+      "price": "5.66",
+      "id": 11
+    },
+    {
+      "name": "Chinelo",
+      "price": "10.58",
+      "id": 12
+    },
+    {
+      "name": "Chinelo",
+      "price": "10.58",
+      "id": 13
+    },
+    {
+      "name": "Chinelo",
+      "price": "10.58",
+      "id": 14
+    },
+    {
+      "name": "calça",
+      "price": "10.58",
+      "id": 15
+    },
+    {
+      "name": "Camiseta",
+      "price": "15.00",
+      "id": 16
+    },
+    {
+      "name": "meia",
+      "price": "19.50",
+      "id": 17
+    }
+  ]
+}
